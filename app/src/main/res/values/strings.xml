@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BitsToBytes</string>
+    <string name="txt_name">Adriano Maciel Sanchez</string>
+    <string name="txt_ra">1110482313018</string>
+    <string name="et_bits">Bits</string>
+    <string name="rb_byte">Bytes</string>
+    <string name="rb_kbyte">KB</string>
+    <string name="rb_mbyte">MB</string>
+    <string name="rb_gbyte">GB</string>
+    <string name="rb_tbyte">TB</string>
+    <string name="bt_convert">Convert</string>
+</resources>
